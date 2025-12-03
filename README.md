@@ -1,11 +1,14 @@
 # local AI assistant
-This is a simple project that reads **text or PDF files** and answers your questions.  
-It works completely on your local machine using Python and a virtual environment.
+### This is a simple project that reads **text or PDF files** and answers your questions.  
 ---
 
-🚀 How to Run the Project
+### Execution flow
 
-Follow the steps below:
+<p align="center">
+  <img src="images/flow_diagram.png" width="500">
+</p>
+
+How to setup and run the Project? Follow the steps below:
 
 ```bash
 python3 -m venv venv
@@ -17,7 +20,7 @@ python app.py
 
 ---
 
-## ❓ Example Questions You Can Ask
+### Sample Questions You ma can ask
 
 After the PDF/text is loaded, you can ask questions like:
 
@@ -25,7 +28,7 @@ After the PDF/text is loaded, you can ask questions like:
 - **Tell me total subjects in each class ?**
 ---
 
-## 📝 Notes
+### Notes
 
 - Store your PDF or text file inside the `data/` folder.
 - Make sure you add your `GROQ_API_KEY` in a `.env` file.
@@ -33,7 +36,7 @@ After the PDF/text is loaded, you can ask questions like:
 
 ---
 
-## ✔ Requirements
+### Requirements
 
 Your `requirements.txt` must contain:
 
