@@ -2,12 +2,6 @@
 ### This is a simple project that reads **text or PDF files** and answers your questions.  
 ---
 
-### Execution flow
-
-<p align="center">
-  <img src="images/flow_diagram.png" width="500">
-</p>
-
 How to setup and run the Project? Follow the steps below:
 
 ```bash
@@ -48,3 +42,17 @@ python-dotenv
 pypdf
 ```
 
+### Execution flow
+
+<p align="center">
+  <img src="images/flow_diagram.png" width="300">
+</p>
+
+### Test case screenshots
+
+<p align="center">
+  <img src="images/test1.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/test2.jpg" width="300">
+</p>
