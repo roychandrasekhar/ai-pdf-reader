@@ -26,7 +26,11 @@ After the PDF/text is loaded, you can ask questions like:
 
 - Store your PDF or text file inside the `data/` folder.
 - Make sure you add your `GROQ_API_KEY` in a `.env` file.
-- Supports **PDF** and **TXT** files.
+```
+GROQ_API_KEY=your_api_key_here
+MODEL_NAME=model_name
+```
+
 
 ---
 
@@ -51,10 +55,10 @@ pypdf
 ---
 ### Test case screenshots
 
-<p align="center">
+<p align="left">
   <img src="images/test1.jpg">
 </p>
-<p align="center">
+<p align="left">
   <img src="images/test2.jpg">
 </p>
 
