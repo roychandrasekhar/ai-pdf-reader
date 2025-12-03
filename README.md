@@ -48,11 +48,14 @@ pypdf
   <img src="images/flow_diagram.png" width="300">
 </p>
 
+---
 ### Test case screenshots
 
 <p align="center">
-  <img src="images/test1.jpg" width="300">
+  <img src="images/test1.jpg">
 </p>
 <p align="center">
-  <img src="images/test2.jpg" width="300">
+  <img src="images/test2.jpg">
 </p>
+
+---
