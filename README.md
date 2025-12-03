@@ -48,7 +48,7 @@ pypdf
 
 ### Execution flow
 
-<p align="center">
+<p align="left">
   <img src="images/flow_diagram.png" width="300">
 </p>
 
