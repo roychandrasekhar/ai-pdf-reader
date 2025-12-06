@@ -55,9 +55,12 @@ pypdf
 ---
 ### Test case screenshots
 
+#### image 1
 <p align="left">
   <img src="images/test1.jpg">
 </p>
+
+#### image 2
 <p align="left">
   <img src="images/test2.jpg">
 </p>
